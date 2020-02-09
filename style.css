@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+nav > ul {
+  list-style: none;
+}
+
+nav > ul > li {
+  display: inline;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-rows: 20vh;
+}
